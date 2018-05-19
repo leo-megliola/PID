@@ -1,7 +1,9 @@
 # PID
 PID experiment for Bay Area Maker Faire, May-2018
 
-Plastic connectors for the frame come from: https://eztube.com/.<br>
+Plastic connectors for the frame came from: https://eztube.com/.
+If EZTube is not available, try STL files for connectors; these are <u>untested</u>.<br>
+STL files for mounts and brackets are tested.<br>
 Frame is made of standard 1" square aluminum tubing.<br>
 Fasteners are standard M8 nuts & bolts.<br>
 Motor is a Turnigy D2836/8 1100KV brushless outrunner.<br>
